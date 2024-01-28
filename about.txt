@@ -1,1 +1,1 @@
-it a lead tracker for sales persons
+it a lead tracker for sales persons  and who is need for saving the leads and contacts and link in this tab and it will maintain the stored data untill you delete
